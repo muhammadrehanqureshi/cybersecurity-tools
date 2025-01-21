@@ -83,6 +83,30 @@ This tool is ideal for maintaining file security and ensuring data consistency i
 git clone https://github.com/muhammadrehanqureshi/cybersecurity_tools.git
 cd cybersecurity_tools
 
+---
+
+## Malware Scanner
+
+### Overview
+The **Malware Scanner** is a Python tool designed to detect potentially malicious files in a directory by comparing their hashes against known malware signatures. It provides a simple solution for malware detection and is ideal for improving cybersecurity skills.
+
+### Features
+- Recursively scans directories for files.
+- Compares file hashes to known malware signatures.
+- Generates a report of potentially infected files.
+
+### How It Works
+1. **Input Directory**: Prompts the user to specify the directory to scan.
+2. **Hash Comparison**: Matches file hashes with known malware signatures.
+3. **Generate Report**: Outputs a list of suspicious files in the console.
+
+### Usage
+
+#### 1. Clone the Repository
+```bash
+git clone https://github.com/muhammadrehanqureshi/cybersecurity_tools.git
+cd cybersecurity_tools
+
 
 
 
