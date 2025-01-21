@@ -1,5 +1,5 @@
 ## About Me
-I am Muhammad Rehan Qureshi, a cybersecurity professional passionate about securing digital ecosystems.
+My name is Muhammad Rehan Qureshi, a cybersecurity professional who has completed my bachelor of cyber security (honours) and master of cyber security from Deakin university, Melbourne. I am passionate about securing digital ecosystems. Please check out my portfolio. Regards.
 
 # cybersecurity-tools
 A collection of scripts and tools for penetration testing, vulnerability management, and more
