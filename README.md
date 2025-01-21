@@ -77,14 +77,6 @@ This tool is ideal for maintaining file security and ensuring data consistency i
 1. **Save Hashes**: Generate and store hashes for files in a directory.
 2. **Check Integrity**: Compare stored hashes with current file hashes to detect changes.
 
-## Usage
-### 1. Clone the Repository
-```bash
-git clone https://github.com/muhammadrehanqureshi/cybersecurity_tools.git
-cd cybersecurity_tools
-
----
-
 ## Malware Scanner
 
 ### Overview
@@ -106,6 +98,9 @@ The **Malware Scanner** is a Python tool designed to detect potentially maliciou
 ```bash
 git clone https://github.com/muhammadrehanqureshi/cybersecurity_tools.git
 cd cybersecurity_tools
+
+
+
 
 
 
