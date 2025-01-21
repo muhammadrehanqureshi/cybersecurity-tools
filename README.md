@@ -17,3 +17,15 @@ This script scans a range of ports on a given IP address and identifies open por
 1. Run the script: `python port_scanner.py`.
 2. Enter the target IP address and port range when prompted.
 3. View the results showing open ports.
+
+## Password Generator
+**File:** `password_generator.py`  
+This script generates secure passwords based on user preferences, including length and character types.
+
+### Features
+- Specify password length.
+- Include/exclude uppercase letters, numbers, and special characters.
+- Ensures at least one character of each selected type is included.
+
+### Usage
+Run the script and follow the prompts:
