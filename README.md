@@ -44,5 +44,14 @@ Run the script and provide:
 1. Path to the log file.
 2. Pattern to search for.
 
-Example:
+## Password Generator
+**File:** `password_generator.py`  
+This script generates secure passwords based on user-defined length and character preferences.
 
+### Features
+- Specify password length (minimum 4 characters).
+- Include/exclude uppercase letters, numbers, and special characters.
+- Ensures at least one character of each selected type is included.
+
+### Usage
+Run the script and follow the prompts:
