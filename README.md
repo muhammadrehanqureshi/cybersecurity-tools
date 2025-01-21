@@ -29,3 +29,20 @@ This script generates secure passwords based on user preferences, including leng
 
 ### Usage
 Run the script and follow the prompts:
+
+## Log Analyzer
+**File:** `log_analyzer.py`  
+This script analyzes log files to identify specific patterns or events and provides a summary of findings.
+
+### Features
+- Parse log files line by line.
+- Search for user-defined patterns (e.g., 'ERROR', 'WARNING').
+- Report matching lines with line numbers.
+
+### Usage
+Run the script and provide:
+1. Path to the log file.
+2. Pattern to search for.
+
+Example:
+
