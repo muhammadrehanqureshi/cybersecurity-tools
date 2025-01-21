@@ -60,3 +60,26 @@ Run the script and follow the prompts:
 - Password strength analysis (Weak, Medium, Strong).
 - Option to save passwords to a file with timestamps.
 
+# File Integrity Checker
+
+## Overview
+The **File Integrity Checker** is a Python-based script designed to monitor and verify the integrity of files. By calculating and storing file hashes, it ensures that any unauthorized modifications or tampering are quickly identified.
+
+This tool is ideal for maintaining file security and ensuring data consistency in sensitive environments.
+
+## Features
+- **Hash Calculation**: Uses algorithms like SHA-256 to calculate file hashes.
+- **Integrity Monitoring**: Detects unauthorized changes by comparing current and saved hashes.
+- **Tampering Detection**: Identifies missing, modified, or tampered files.
+- **JSON Storage**: Saves file hashes in a JSON file for easy management.
+
+## How It Works
+1. **Save Hashes**: Generate and store hashes for files in a directory.
+2. **Check Integrity**: Compare stored hashes with current file hashes to detect changes.
+
+## Usage
+### 1. Clone the Repository
+```bash
+git clone https://github.com/muhammadrehanqureshi/cybersecurity_tools.git
+cd cybersecurity_tools
+
