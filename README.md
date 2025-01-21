@@ -55,3 +55,8 @@ This script generates secure passwords based on user-defined length and characte
 
 ### Usage
 Run the script and follow the prompts:
+
+### New Features
+- Password strength analysis (Weak, Medium, Strong).
+- Option to save passwords to a file with timestamps.
+
