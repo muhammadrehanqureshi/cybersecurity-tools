@@ -92,12 +92,30 @@ The **Malware Scanner** is a Python tool designed to detect potentially maliciou
 2. **Hash Comparison**: Matches file hashes with known malware signatures.
 3. **Generate Report**: Outputs a list of suspicious files in the console.
 
+---
+
+## Vulnerability Scanner
+
+### Overview
+The **Vulnerability Scanner** is a Python tool designed to identify open ports on a target machine, which can indicate potential vulnerabilities. It scans a specified range of ports and provides insights to secure exposed services.
+
+### Features
+- Scans a specified IP address for open ports.
+- Allows users to define custom port ranges.
+- Identifies potential entry points for attackers.
+
+### How It Works
+1. **Input Target IP**: Users provide the IP address of the target machine.
+2. **Specify Port Range**: Users define the range of ports to scan.
+3. **Detect Open Ports**: The script identifies ports that are open and may need further investigation.
+
 ### Usage
 
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/muhammadrehanqureshi/cybersecurity_tools.git
 cd cybersecurity_tools
+
 
 
 
