@@ -109,6 +109,26 @@ The **Vulnerability Scanner** is a Python tool designed to identify open ports o
 2. **Specify Port Range**: Users define the range of ports to scan.
 3. **Detect Open Ports**: The script identifies ports that are open and may need further investigation.
 
+## Phishing Email Detector
+
+### Overview
+The **Phishing Email Detector** is a Python tool designed to identify potential phishing attempts in email content by analyzing keywords, links, and suspicious patterns.
+
+### Features
+- Detects phishing keywords (e.g., "password", "urgent").
+- Analyzes URLs for suspicious domains and shortened links.
+- Provides a summary of red flags detected in the email.
+
+### How It Works
+1. Save the email content as a `.txt` file.
+2. Run the script and provide the file path when prompted.
+3. Review the analysis results for any red flags.
+
+### Usage
+```bash
+python phishing_email_detector.py
+
+
 ### Usage
 
 #### 1. Clone the Repository
