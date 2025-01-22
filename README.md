@@ -125,11 +125,6 @@ The **Phishing Email Detector** is a Python tool designed to identify potential 
 3. Review the analysis results for any red flags.
 
 ### Usage
-```bash
-python phishing_email_detector.py
-
-
-### Usage
 
 #### 1. Clone the Repository
 ```bash
