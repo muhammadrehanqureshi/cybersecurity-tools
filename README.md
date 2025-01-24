@@ -128,8 +128,8 @@ The **Phishing Email Detector** is a Python tool designed to identify potential 
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/muhammadrehanqureshi/cybersecurity_tools.git
-cd cybersecurity_tools
+git clone https://github.com/muhammadrehanqureshi/cybersecurity-tools.git
+cd cybersecurity-tools
 
 
 
